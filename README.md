@@ -37,7 +37,7 @@ Based on the above learning sources, this repository focuses on:
 
 ## Repository Structure
 
-python-daily-learning-log/
+python-from-basics-toadvanced/
 │
 ├── Day01/
 │   └── notes_and_practice.ipynb
